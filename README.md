@@ -1,0 +1,4 @@
+StokTakip
+=========
+
+StokTakip programı
